@@ -1,0 +1,1 @@
+# clever-ts-clean-architecture-core
